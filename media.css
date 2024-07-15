@@ -5,6 +5,12 @@
     .card-img {
         height: 100px;
     }
+    header h1 {
+        margin-left: 25%;
+    }
+    footer {
+        margin-left: 25%;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -14,5 +20,14 @@
             height: 260px;
             width: 200px;
         }
+        
+    }
+    header h1 {
+        margin-left: 25%;
+        justify-content: center;
+    }
+    footer {
+        margin-left: 25%;
+        justify-content: center;
     }
 }
