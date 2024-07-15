@@ -141,3 +141,15 @@ header h1 {
 .card-date {
     color: #ff0000;
 }
+
+button {
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid;
+    text-align: center;
+    font-size: 20px;
+    border-radius: var(--card-border-redius);
+    &:hover {
+        color: #f30000;
+    }
+}
