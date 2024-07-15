@@ -3,7 +3,8 @@
         grid-template-columns: repeat(2,1fr);
     }
     .card-img {
-        height: 100px;
+        height: 260px;
+        width: 200px;
     }
     header h1 {
         margin-left: 25%;
